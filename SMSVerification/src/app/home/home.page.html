@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      SMS Verification
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <button ion-button block (click)="send()">Send OTP</button>
+ 
+  <ion-input type="text" [(ngModel)]="code" id="input" ></ion-input>
+  <button ion-button block (click)="verify()">Verify OTP</button>
+  
+</ion-content>
+ 

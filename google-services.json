@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945659108511",
+    "firebase_url": "https://smsverification-69c17.firebaseio.com",
+    "project_id": "smsverification-69c17",
+    "storage_bucket": "smsverification-69c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945659108511:android:df14c1ef72fe9c39",
+        "android_client_info": {
+          "package_name": "com.verification.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945659108511-q93mf523oalkhmpi9l9jl6rgb9eo2nj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verification.sms",
+            "certificate_hash": "0de7d17a03768a44bf882bb08359fde6c6daa978"
+          }
+        },
+        {
+          "client_id": "945659108511-9b7sbmeqgpc2jlqpk2afo5l7ahd4ugrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ThouGGldCG6l2D3wcc2ErMD_MQPnFYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945659108511-9b7sbmeqgpc2jlqpk2afo5l7ahd4ugrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

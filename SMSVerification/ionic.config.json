@@ -1,0 +1,7 @@
+{
+  "name": "SMSVerification",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
